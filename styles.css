@@ -4,9 +4,6 @@ html {
   margin: 0;
   height: 100%;
 }
-audio {
-  display: none;
-}
 .main {
   display: flex;
   flex-direction: column;
